@@ -1,0 +1,11 @@
+conda activate Lux-Design
+
+cd C:\Users\fight\Desktop\Lux-Design-S2\kits\python
+
+luxai-s2 main.py main.py --out=replay.json
+
+cd C:\Users\fight\Desktop\Lux-Design-S2
+
+luxai-s2 kits/python/main.py kits/python/main.py -v 2 -o replay.json
+
+cd kits\python
